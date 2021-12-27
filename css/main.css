@@ -79,6 +79,9 @@ footer {
     background-color: #000 ;
   }
   
+  .col-3 {
+    width: 50%;
+  }
 }
 
 
@@ -104,4 +107,8 @@ footer {
     background-color: #4682B4;
   }
    
+  .col-3 {
+    width: 33.3%;
+  }
+
 }
